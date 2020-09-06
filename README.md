@@ -19,7 +19,7 @@ We present a general bilevel optimization paradigm to unify different types of m
 
 <div align=center>
   
-![Bilevel Optimization Model](https://github.com/dut-media-lab/BOML/blob/master/figures/p2.png)
+![Bilevel Optimization Model](https://github.com/dut-media-lab/BOML/blob/master/figures/p1.png)
 </div>
 
 ## Generic Optimization Routine
