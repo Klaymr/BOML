@@ -15,7 +15,7 @@ ReadMe.md file contains brief introduction to implement meta-initialization-base
 
 Meta learning works fairly well when facing incoming new tasks by learning an initialization with favorable generalization capability. And it also has good performance even provided with a small amount of training data available, which gives birth to various solutions for different application such as few-shot learning problem.
 
-We present a general bilevel optimization paradigm to unify different types of metalearning approaches. Specifically, we define the meta dataset as $D=\{D^{i}\}_{i=1}^{N}$, $D^{i}=$ $D_{tr}^{i} \cup D_{val}^{i}$ is linked to the $i$ -th task and $D_{tr}^{i}$ and $D_{val}^{i}$ respectively denote the training and validation sets.
+We present a general bilevel optimization paradigm to unify different types of metalearning approaches. Specifically, we define the meta dataset as $D=\{D^{i}\}_{i=1}^{N}$, $D^{i}= D_{tr}^{i} \cup D_{val}^{i}$ is linked to the $i$ -th task and $D_{tr}^{i}$ and $D_{val}^{i}$ respectively denote the training and validation sets.
 
 ![Bilevel Optimization Model](https://github.com/dut-media-lab/BOML/blob/master/figures/p1.png)
 
