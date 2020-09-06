@@ -15,7 +15,7 @@ ReadMe.md file contains brief introduction to implement meta-initialization-base
 
 Meta learning works fairly well when facing incoming new tasks by learning an initialization with favorable generalization capability. And it also has good performance even provided with a small amount of training data available, which gives birth to various solutions for different application such as few-shot learning problem.
 
-We present a general bilevel optimization paradigm to unify different types of meta learning approaches, and the mathematical form could be summarized as below:
+We present a general bilevel optimization paradigm to unify different types of meta learning approaches, and the mathematical form could be summarized as below:\\
 ![Bilevel Optimization Model](https://github.com/dut-media-lab/BOML/blob/master/figures/p1.png)
 
 ## Generic Optimization Routine
