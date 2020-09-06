@@ -20,12 +20,14 @@ We present a general bilevel optimization paradigm to unify different types of m
 <div align=center>
 ![Bilevel Optimization Model](https://github.com/dut-media-lab/BOML/blob/master/figures/p2.png)
 </div>
+
 ## Generic Optimization Routine
 Here we illustrate the generic optimization routine and hierarchically built strategies in the figure, which could be quikcly implemented in the following example.<br>
 
 <div align=center>
 ![Hierarchically built strategies](https://github.com/dut-media-lab/BOML/blob/master/figures/p2.png)
 </div>
+
 ## Running examples
 ```
 from boml import utils
