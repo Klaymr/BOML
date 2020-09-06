@@ -18,6 +18,7 @@ Meta learning works fairly well when facing incoming new tasks by learning an in
 We present a general bilevel optimization paradigm to unify different types of meta learning approaches, and the mathematical form could be summarized as below:<br>
 
 <div align=center>
+  
 ![Bilevel Optimization Model](https://github.com/dut-media-lab/BOML/blob/master/figures/p2.png)
 </div>
 
@@ -25,6 +26,7 @@ We present a general bilevel optimization paradigm to unify different types of m
 Here we illustrate the generic optimization routine and hierarchically built strategies in the figure, which could be quikcly implemented in the following example.<br>
 
 <div align=center>
+  
 ![Hierarchically built strategies](https://github.com/dut-media-lab/BOML/blob/master/figures/p2.png)
 </div>
 
